@@ -178,7 +178,7 @@ footer{
     margin: auto;
 }
 .header .nav ul li{
-	display:block;
+	padding:10px;
 }
 .header .nav ul li img{
 	border-radius:100%;
@@ -228,7 +228,7 @@ hr{
 	margin-right:7%;
 	background-color:#5e5cff;
 	color:#fff;
-	font-size:32px;
+	font-size:15px;
 }
 
 /*end features*/
@@ -338,7 +338,7 @@ hr{
 	margin-right:7%;
 	background-color:#5e5cff;
 	color:#fff;
-	font-size:32px;
+	font-size:15px;
 }
 /*end features*/
 
