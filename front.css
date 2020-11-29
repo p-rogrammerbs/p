@@ -105,6 +105,16 @@ hr{
     height:auto;
 	color:#8f7ab7;
 }
+.features .feat .video a{
+	margin:35%;
+	padding:3%;
+	border:1px solid #ffffe0;
+	border-radius:30%;
+	margin-right:30%;
+	background-color:#5e5cff;
+	color:#fff;
+	font-size:32px;
+}
 .features .feat h2{
 	color:#6ebeec;
 	font-family:Georgia;
