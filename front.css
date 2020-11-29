@@ -220,6 +220,17 @@ hr{
 	color:#6ebeec;
 	font-family:Georgia;
 }
+.features .feat .video a{
+	margin:25%;
+	padding:2%;
+	border:1px solid #fff;
+	border-radius:30%;
+	margin-right:7%;
+	background-color:#5e5cff;
+	color:#fff;
+	font-size:32px;
+}
+
 /*end features*/
 
 
@@ -317,6 +328,17 @@ hr{
 .features .feat h2{
 	color:#6ebeec;
 	font-family:Georgia;
+}
+
+.features .feat .video a{
+	margin:25%;
+	padding:2%;
+	border:1px solid #fff;
+	border-radius:30%;
+	margin-right:7%;
+	background-color:#5e5cff;
+	color:#fff;
+	font-size:32px;
 }
 /*end features*/
 
